@@ -40,7 +40,7 @@
 ---
 
 ### 🏆 **Achievements**
-![Harvard CS50]([https://img.shields.io/badge/Harvard-CS50-blue?logo=harvard&logoColor=white](https://cs50.harvard.edu/certificates/bac2b7a5-54ca-42d8-a026-911b82c048ea))
+![Harvard CS50](https://img.shields.io/badge/Harvard-CS50-blue?logo=harvard&logoColor=white)
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws)
 
 ---
