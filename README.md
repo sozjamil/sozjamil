@@ -40,14 +40,13 @@
 ---
 
 ### 🏆 **Achievements**
-![Harvard CS50](https://img.shields.io/badge/Harvard-CS50-blue?logo=harvard&logoColor=white)
+![Harvard CS50]([https://img.shields.io/badge/Harvard-CS50-blue?logo=harvard&logoColor=white](https://cs50.harvard.edu/certificates/bac2b7a5-54ca-42d8-a026-911b82c048ea))
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws)
 
 ---
 
 ### 📫 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soz-j-anwer/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A8BDF?logo=google-chrome)](https://yourportfolio.com)
 
 ---
