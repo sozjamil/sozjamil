@@ -21,15 +21,6 @@
 
 ---
 
-### 🎓 **Harvard Web50 Projects**
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [Project 1](link) | E-commerce Platform | Django, React, AWS |
-| [Project 2](link) | Task Management App | Vue.js, Django REST |
-| [Project 3](link) | Portfolio Site | Tailwind, Python |
-| ... (add 6 projects) | ... | ... |
-
----
 
 ### 📈 **GitHub Stats**
 <div align="center">
@@ -41,7 +32,6 @@
 
 ### 🏆 **Achievements**
 [![Harvard Web50](https://img.shields.io/badge/Harvard-Web50-blue?logo=harvard&logoColor=white)](https://cs50.harvard.edu/certificates/9525c5e8-8479-4d63-b916-40976038dbfd)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?logo=amazon-aws)
 
 ---
 
@@ -52,4 +42,4 @@
 ---
 
 ### ✨ **Fun Fact**
-I automate my daily tasks with Python scripts! 🐍
+I was born inside a car  
