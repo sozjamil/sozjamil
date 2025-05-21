@@ -39,7 +39,4 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/soz-j-anwer/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A8BDF?logo=google-chrome)](https://yourportfolio.com)
 
----
 
-### ✨ **Fun Fact**
-I was born inside a car  
